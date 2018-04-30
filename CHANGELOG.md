@@ -5,10 +5,9 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 ### Changed
+- Add support for private repositories using docker credential stores/helpers (fixes [\#567](https://github.com/testcontainers/testcontainers-java/issues/567))
 
 ## [1.7.2] - 2018-04-30
-
-- Add support for private repositories using docker credential stores/helpers (fixes [\#567](https://github.com/testcontainers/testcontainers-java/issues/567))
 
 ### Fixed
 - Add support for private repositories using docker credential stores/helpers (fixes [\#567](https://github.com/testcontainers/testcontainers-java/issues/567))
